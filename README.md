@@ -13,44 +13,44 @@ The following charts illustrate a clear pattern for Urban, Suburban, and Rural m
  
 PyBer Ride-Sharing Data (2019):
 ![Fig 1](analysis/Fig1.png)
-
 - In this inclusive overview, we see that urban market users represent a higher number of total rides, however have the lowest average fare per ride. 
+
 
 Ride Count Data (2019):
 ![Fig 2](analysis/Fig2.png)
-
 - When isolating markets by city type, we can see that the number of rides given are mostly in the urban market, followed by the suburban market, and lastly the rural market.
+
 
 Ride Fare Data (2019):
 ![Fig 3](analysis/Fig3.png)
-
 - Conversely, when isolating markets by city type, we can see that the cost of the rides given are highest in the rural market, followed by the suburban market, and lastly the urban market.
+
 
 Driver Count Data (2019):
 ![Fig 4](analysis/Fig4.png)
-
 - While the highest fares come from rides in the rural market, these areas have the lowest number of drivers.
+
 
 Percentage of Total Fares by City Type:
 ![Fig 5](analysis/Fig5.png)
-
 - The urban market represents the largest percentage of total fares when broken up by city type.
-        
+     
+     
 Percentage of Total Rides by City Type:   
-![Fig 6](analysis/Fig6.png)
-    
+![Fig 6](analysis/Fig6.png) 
 - The urban market represents the largest percentage of total rides by city type.
+
 
 Percentage of Total Drivers by City Type:
 ![Fig 7](analysis/Fig7.png)
-
 - The urban market represents the largest percentage of total drivers when broken up by city type.
+
+
+## Summary of the Analysis  
     
 Total Fare by City Type:
 ![Fig 8](analysis/PyBer_fare_summary.png)
 
-
-## Summary of the Analysis
 
 When taking these figures into account, there are a few things to consider. Do PyBer's  goals include increasing the amount of riders, drivers, or fares for either the suburban or rural markets? Included are recommendations based on these observations:
 
